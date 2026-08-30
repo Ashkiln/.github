@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashkiln/.github/main/profile/assets/mark.png" width="120" alt="Ashkiln">
   <h1>Ashkiln</h1>
-  <p><strong>Solana tooling, forged for speed.</strong></p>
 </div>
 
 ---
