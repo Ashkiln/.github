@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Ashkiln</h1>
+  <p><strong>Solana tooling, forged for speed.</strong></p>
 </div>
 
 ---
